@@ -2,7 +2,11 @@
 
 I conducted research into the mechanics of crumpling as part of my Honours Thesis for my Bachelor of Civil Engineering. 
 
-Crumpling is a very mathematically complex field of research that has many real-world applications and potential - particularly in terms of energy absorbtion and lightweight thin-walled structures. For engineers to begin to design with any sort of materials, three variables are required:
+Crumpling is a very mathematically complex field of research that has many real-world applications and potential - particularly in terms of energy absorbtion and lightweight thin-walled structures. 
+
+However, the complexities of the mathematics need to be distilled into simple equations for engineers to use.
+
+For engineers to begin to design with any sort of materials, three variables are required:
 1. Cross Sectional Geometric properties such as Cross Sectional Area or Section Modulus
 2. Material properties such as Yield Stress or Ultimate Stress
 3. Member Buckling modification factors
